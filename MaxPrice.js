@@ -31,7 +31,7 @@ specified in the price tag.
 @param PriceMetaName
 @text price tag
 @desc Tag name in the memo field
-@default 価格
+@default Price
 */
 
 /*:ja

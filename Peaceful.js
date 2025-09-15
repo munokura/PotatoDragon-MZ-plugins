@@ -39,7 +39,7 @@ With Peaceful OFF, random encounters are enabled.
 @text Peaceful Option Name
 @desc Option name to disable random encounters
 @type string
-@default ピースフル
+@default Peaceful
 */
 
 /*:ja

@@ -31,7 +31,7 @@ in the least damage) of the normal floor damage rate.
 @param PartyFloorDamageMetaName
 @text Party Floor Damage Rate Tag
 @desc Name of the memo tag used for party floor damage rate
-@default 床ダメージ率
+@default Floor Damage Rate
 */
 
 /*:ja

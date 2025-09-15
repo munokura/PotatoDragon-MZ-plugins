@@ -36,13 +36,13 @@ Just install the plugin and it will work.
 @text Hidden Item A Display Name
 @desc Display name of hidden item A
 @type string
-@default 隠しアイテムＡ
+@default Secret Item A
 
 @param SecretItemB
 @text Hidden Item B Display Name
 @desc Display name of hidden item B
 @type string
-@default 隠しアイテムＢ
+@default Secret Item B
 */
 
 /*:ja

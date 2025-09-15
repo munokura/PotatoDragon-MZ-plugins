@@ -29,7 +29,7 @@ Just install the plugin and it will work.
 @param Optimize
 @text Strongest Equipment Tag
 @desc Name of the memo tag that determines the priority of the strongest equipment
-@default 最強装備
+@default Optimize
 
 @param SkipOptimize
 @text Skip tag

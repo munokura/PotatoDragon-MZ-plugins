@@ -49,12 +49,12 @@ Specifies the name of the <Hide for Sale> tag.
 @param NoSaleMetaName
 @text Not for sale tag
 @desc Name of the memo tag to use for 'cannot sell'
-@default 売却不可
+@default NoSale
 
 @param NoViewMetaName
 @text Sell Hidden Tag
 @desc Name of the memo tag used to hide sales
-@default 売却非表示
+@default NoView
 */
 
 /*:ja
