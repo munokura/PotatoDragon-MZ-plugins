@@ -15,6 +15,8 @@ https://opensource.org/license/mit
 English Help Translator: munokura
 This is an unofficial English translation of the plugin help,
 created to support global RPG Maker users.
+Feedback is welcome to improve translation quality
+(see: https://github.com/munokura/PotatoDragon-MZ-plugins ).
 Original plugin by PotatoDragon.
 Please check the latest official version at:
 https://github.com/pota-gon/RPGMakerMZ/wiki
