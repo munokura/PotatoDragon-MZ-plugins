@@ -83,12 +83,12 @@ The growth rate per level is 10 for HP and MP, and other stats: 1.
 @text Initial Level Name
 @desc Name of the metadata (<initial level>) to be written in the actor's notes
 @type string
-@default 初期レベル
+@default initial level
 @parent MinLevel
 
 @param MaxLevel
 @text Maximum Level
-@desc 0 is infinite, but MZ has a lot of loops and processing slows down.
+@desc 0 is infinite， but MZ has a lot of loops and processing slows down.
 @type number
 @default 9999
 @min 0
@@ -98,32 +98,32 @@ The growth rate per level is 10 for HP and MP, and other stats: 1.
 @text Maximum Level Name
 @desc Name of the metadata (<max level>) to be included in the actor's notes
 @type string
-@default 最大レベル
+@default max level
 @parent MaxLevel
 
 @param InitName
 @text Initial Value Name
 @desc Name of the metadata (<initial value>) to be written in the actor's memo
 @type string
-@default 初期値
+@default initial value
 
 @param GrowName
 @text Growth rate name
 @desc Name of the metadata (<growth rate>) to be written in the actor's notes
 @type string
-@default 成長率
+@default growth rate
 
 @param MobName
 @text Mob Name
 @desc The name of the metadata (<mob>) to be written in the actor's notes
 @type string
-@default モブ
+@default mob
 
 @param SmallFishName
 @text Minion Name
 @desc The name of the metadata (<Zako>) to be written in the actor's notes
 @type string
-@default ザコ
+@default Zako
 
 @param MaxLevelMenu
 @text Level Cap Break Menu
@@ -139,15 +139,6 @@ The growth rate per level is 10 for HP and MP, and other stats: 1.
 
 @param NormalInitHp
 @text HP initial value (normal)
-@desc Default value if no tag is specified
-@type number
-@default 100
-@min 0
-@max 999999999999999
-@parent Init
-
-@param NormalInitMp
-@text MP initial value (normal)
 @desc Default value if no tag is specified
 @type number
 @default 100

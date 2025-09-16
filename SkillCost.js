@@ -147,67 +147,67 @@ search.
 @param HpCostMetaName
 @text HP Consumption Tag
 @desc Name of the memo tag used for HP consumption
-@default HP消費
+@default HpCost
 
 @param GoldCostMetaName
 @text Money Consumption Tag
 @desc Name of the memo tag used for consuming money
-@default 所持金消費
+@default GoldCost
 
 @param ItemCostMetaName
 @text Item Consumption Tag
 @desc Name of the memo tag used for item consumption
-@default アイテム消費
+@default ItemCost
 
 @param WeaponCostMetaName
 @text Weapon Consumption Tag
 @desc Name of the memo tag used for weapon consumption
-@default 武器消費
+@default WeaponCost
 
 @param ArmorCostMetaName
 @text Armor consumption tag
 @desc Name of the memo tag used for armor consumption
-@default 防具消費
+@default ArmorCost
 
 @param ItemRateCostMetaName
 @text Item percentage consumption tag
 @desc Name of the memo tag used for item rate consumption
-@default アイテム割合消費
+@default ItemRateCost
 
 @param WeaponRateCostMetaName
 @text Weapon Percentage Consumption Tag
 @desc Name of memo tag used for weapon rate consumption
-@default 武器割合消費
+@default WeaponRateCost
 
 @param ArmorRateCostMetaName
 @text Armor consumption rate tag
 @desc Name of the memo tag used for armor consumption
-@default 防具割合消費
+@default ArmorRateCost
 
 @param HpRateCostMetaName
 @text HP percentage consumption tag
 @desc Name of the memo tag used for HP percentage consumption
-@default HP割合消費
+@default HpRateCost
 
 @param MpRateCostMetaName
 @text MP rate consumption tag
 @desc Name of the memo tag used for MP percentage consumption
-@default MP割合消費
+@default MpRateCost
 
 @param GoldRateCostMetaName
 @text Money Consumption Tag
 @desc Name of the memo tag used for money consumption
-@default 所持金割合消費
+@default GoldRateCost
 
 @param MaxHpRateCostMetaName
 @text MaxHP percentage consumption tag
 @desc Name of the memo tag used for MaxHP percentage consumption
-@default MaxHP割合消費
+@default MaxHpRateCost
 
 @param MaxMpRateCostMetaName
 @text MaxMP rate consumption tag
 @desc Name of the memo tag used for MaxMP rate consumption
-@default MaxMP割合消費
+@default MaxMpRateCost
 */
 
 /*:ja

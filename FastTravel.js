@@ -160,8 +160,8 @@ coordinates.
 @text Menu Display Name
 @desc Commands that can display menus
 @type combo
-@default ファストトラベル
-@option ファストトラベル
+@default Fast Travel
+@option Fast Travel
 
 @param MenuSwitch
 @text Menu display switch

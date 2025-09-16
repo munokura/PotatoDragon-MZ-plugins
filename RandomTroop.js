@@ -107,7 +107,7 @@ excess monsters will be positioned using the front view alignment.
 @text aerial name
 @desc Name of the metadata (<Air>) to be written in the enemy character's memo
 @type string
-@default 空中
+@default Air
 
 @param Alignment
 @text Auto Align
@@ -120,13 +120,13 @@ excess monsters will be positioned using the front view alignment.
 @param EnableAlignmentMetaName
 @text Auto Align ON tag
 @desc Name of tag to use for auto-alignment ON
-@default 自動整列ON
+@default AutoAlignON
 @parent Alignment
 
 @param DisableAlignmentMetaName
-@text Auto-align OFF tag
+@text Auto Align OFF tag
 @desc Tag name to use for automatic alignment OFF
-@default 自動整列OFF
+@default AutoAlignOFF
 @parent Alignment
 */
 

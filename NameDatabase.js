@@ -90,7 +90,7 @@ We recommend using unique names to avoid unintended behavior.
 @param ActorEquipMetaName
 @text Actor initial equipment tag
 @desc Name of the memo tag to use for the actor's initial equipment
-@default 装備
+@default Equip
 @parent ActorEquip
 
 @param AddSkill
@@ -104,7 +104,7 @@ We recommend using unique names to avoid unintended behavior.
 @param AddSkillMetaName
 @text Skill Addition Tag
 @desc Name of the memo tag used to add skills
-@default スキル追加
+@default AddSkill
 @parent AddSkill
 
 @param Learning
@@ -126,7 +126,7 @@ We recommend using unique names to avoid unintended behavior.
 @param StateRateMetaName
 @text State Validity Tags
 @desc Name of memo tag used for state validity
-@default ステート有効度
+@default StateRate
 @parent StateRate
 
 @param StateResist
@@ -140,7 +140,7 @@ We recommend using unique names to avoid unintended behavior.
 @param StateResistMetaName
 @text State Invalidation Tag
 @desc Name of the memo tag used to disable the state
-@default ステート無効化
+@default StateResist
 @parent StateResist
 
 @param AttackStates
@@ -154,7 +154,7 @@ We recommend using unique names to avoid unintended behavior.
 @param AttackStatesMetaName
 @text Attack State Tag
 @desc Name of the memo tag used for the attack state
-@default 攻撃時ステート
+@default AttackStates
 @parent AttackStates
 
 @param AddState
@@ -168,7 +168,7 @@ We recommend using unique names to avoid unintended behavior.
 @param AddStateMetaName
 @text State addition tag
 @desc Name of the memo tag used to add the state
-@default ステート付加
+@default AddState
 @parent AddState
 
 @param RemoveState
@@ -182,7 +182,7 @@ We recommend using unique names to avoid unintended behavior.
 @param RemoveStateMetaName
 @text State Cancellation Tag
 @desc Name of the memo tag used to cancel the state
-@default ステート解除
+@default RemoveState
 @parent RemoveState
 */
 

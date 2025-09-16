@@ -71,7 +71,7 @@ is applied.
 @param MoveSpeedMetaName
 @text Movement Speed Tag
 @desc Name of memo tag used for movement speed
-@default 移動速度
+@default MoveSpeed
 */
 
 /*:ja

@@ -75,12 +75,12 @@ Also, you can adjust the display range of digits in the item list by entering
 @param MaxItemMetaName
 @text Maximum number of tags
 @desc Name of the memo tag used for maximum possession
-@default 最大所持数
+@default MaxItem
 
 @param MaxDigitsMetaName
 @text Maximum number of digits tag
 @desc Name of the memo field tag to use for the maximum number of digits
-@default 最大桁数
+@default MaxDigits
 */
 
 /*:ja

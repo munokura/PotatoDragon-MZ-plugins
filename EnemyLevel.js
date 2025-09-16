@@ -106,12 +106,12 @@ Example: **
 @param ExpMetaName
 @text Experience Tag
 @desc Name of memo tag used for experience points
-@default 経験値
+@default Experience
 
 @param GoldMetaName
 @text Money tag
 @desc Name of the memo tag used for money
-@default 所持金
+@default Money
 
 @param EnemyLevelVariables
 @text Enemy character level variable

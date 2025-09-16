@@ -39,12 +39,12 @@ Skill: Fire>.
 @param AttackSkillMetaName
 @text Attack Skill Tag
 @desc Name of memo tag used for attack skills
-@default 攻撃スキル
+@default AttackSkill
 
 @param GuardSkillMetaName
 @text Defense Skill Tag
 @desc Name of memo tag used for defensive skills
-@default 防御スキル
+@default GuardSkill
 
 @param ChangeAttackCommand
 @text Normal attack command name change

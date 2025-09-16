@@ -77,7 +77,7 @@ error. (This behavior can be changed in the plugin parameters.)
 @text Menu Display Name
 @desc Commands that can display menus
 @type combo
-@default アイテム合成
+@default Item synthesis
 
 @param MenuSwitch
 @text Menu display switch
@@ -111,25 +111,25 @@ error. (This behavior can be changed in the plugin parameters.)
 @param BuyName
 @text Synthesis Shop Purchase Command Name
 @desc Synthesizer purchase command name
-@default 合成する
+@default Composite
 @parent MenuCommand
 
 @param SellName
 @text Synthesis Shop Selling Command Name
 @desc Synthesizer sales command name
-@default 分解する
+@default Disassemble
 @parent MenuCommand
 
 @param CancelName
 @text Synthesis Shop Cancel Command Name
 @desc Synthesizer cancel command name
-@default やめる
+@default Cancel
 @parent MenuCommand
 
 @param MaterialName
 @text Required material name
 @desc Display name of required material
-@default 必要素材
+@default Required material
 @parent MenuCommand
 
 @param NoneMaterialMessage
@@ -184,22 +184,22 @@ error. (This behavior can be changed in the plugin parameters.)
 @arg BuyName
 @text Synthesis Shop Purchase Command Name
 @desc Synthesizer purchase command name
-@default 合成する
+@default Composite
 
 @arg SellName
 @text Synthesis Shop Selling Command Name
 @desc Synthesizer sales command name
-@default 分解する
+@default Disassemble
 
 @arg CancelName
 @text Synthesis Shop Cancel Command Name
 @desc Synthesizer cancel command name
-@default やめる
+@default CancelName
 
 @arg MaterialName
 @text Required material name
 @desc Display name of required material
-@default 必要素材
+@default Required material
 */
 
 /*:ja

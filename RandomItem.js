@@ -221,7 +221,7 @@ If you leave this field blank, no message will be displayed.
 @text Gold acquisition message
 @desc Message when gold is obtained
 @type multiline_string
-@default \I[%1]%2%3手に入れた！
+@default I got \I[%1]%2%3!
 
 @command random_item
 @text Get a random item
@@ -246,7 +246,7 @@ If you leave this field blank, no message will be displayed.
 @text Message when you do not have the required item
 @desc Message when you do not have a required item
 @type multiline_string
-@default \I[%1]%2が%3個必要です
+@default I need %3 \I[%1]%2's
 @parent uses
 
 @arg se
@@ -259,7 +259,7 @@ If you leave this field blank, no message will be displayed.
 @text Item acquisition message
 @desc Message when obtaining an item. If empty, it will not be displayed.
 @type multiline_string
-@default \I[%1]%2を%3個手に入れた！
+@default I got %3 \I[%1]%2's!
 
 @command treasure_chest
 @text Preset (lottery): Random treasure chest
@@ -284,7 +284,7 @@ If you leave this field blank, no message will be displayed.
 @text Message when you do not have the required item
 @desc Message when you do not have a required item
 @type multiline_string
-@default 宝箱を開けるには\I[%1]%2が%3個必要です
+@default You need %3 \I[%1]%2 to open the treasure chest.
 @parent uses
 
 @arg se
@@ -297,7 +297,7 @@ If you leave this field blank, no message will be displayed.
 @text Item acquisition message
 @desc Message when obtaining an item. If empty, it will not be displayed.
 @type multiline_string
-@default \I[%1]%2を%3個手に入れた！
+@default I got %3 \I[%1]%2's!
 
 @command felling
 @text Preset (material): Felling
@@ -322,7 +322,7 @@ If you leave this field blank, no message will be displayed.
 @text Message when you do not have the required item
 @desc Message when you do not have a required item
 @type multiline_string
-@default \I[%1]%2が%3個必要です
+@default I need %3 \I[%1]%2's
 @parent uses
 
 @arg se
@@ -335,7 +335,7 @@ If you leave this field blank, no message will be displayed.
 @text Item acquisition message
 @desc Message when obtaining an item. If empty, it will not be displayed.
 @type multiline_string
-@default \I[%1]%2を%3個手に入れた！
+@default I got %3 \I[%1]%2's!
 
 @command mining
 @text Preset (Material): Mining
@@ -360,7 +360,7 @@ If you leave this field blank, no message will be displayed.
 @text Message when you do not have the required item
 @desc Message when you do not have a required item
 @type multiline_string
-@default \I[%1]%2が%3個必要です
+@default I need %3 \I[%1]%2's
 @parent uses
 
 @arg se
@@ -373,7 +373,7 @@ If you leave this field blank, no message will be displayed.
 @text Item acquisition message
 @desc Message when obtaining an item. If empty, it will not be displayed.
 @type multiline_string
-@default \I[%1]%2を%3個手に入れた！
+@default I got %3 \I[%1]%2's!
 */
 
 /*:ja

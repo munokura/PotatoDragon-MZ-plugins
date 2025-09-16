@@ -80,12 +80,12 @@ Second Currency Name: Yen
 @param BuyName
 @text Purchase Command Name
 @desc Second currency purchase command name
-@default 交換する
+@default Exchange
 
 @param SecondCurrencyUnitName
 @text Second currency name
 @desc Second currency name
-@default 枚
+@default pieces
 
 @param BuyRate
 @text Purchase Rate

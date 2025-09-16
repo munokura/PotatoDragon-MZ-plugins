@@ -59,7 +59,7 @@ At 100% or above, only hit detection is performed.
 @text Niflam failure message
 @desc Message when Niflam fails. If empty, it will not be displayed.
 @type multiline_string
-@default %1には効かなかった！
+@default It didn't work for %1!
 */
 
 /*:ja

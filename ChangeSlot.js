@@ -57,7 +57,7 @@ Example: <Equipment Restriction: 1> You can equip only one item with
 @text Equipment Slot
 @desc Specify the equipment slot number or equipment type name.
 @type string[]
-@default ["武器", "盾", "頭", "身体", "装飾品", "装飾品"]
+@default ["Weapon", "Shield", "Head", "Body", "Accessory", "Accessory"]
 
 @param FixStatusEquipOver
 @text Equipment type bug fixes
@@ -78,15 +78,15 @@ Example: <Equipment Restriction: 1> You can equip only one item with
 @text Type tag
 @desc With accessories, there can only be one of the same type of equipment, such as a helmet or shoes.
 @type combo
-@default 種別
-@option 種別
+@default Type
+@option Type
 
 @param Limit
 @text Equipment Restriction Tag
 @desc Name of memo tag that can only be equipped in limited quantities, such as powerful equipment
 @type combo
-@default 装備制限
-@option 装備制限
+@default EquipLimit
+@option EquipLimit
 */
 
 /*:ja

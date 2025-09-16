@@ -296,12 +296,17 @@ Pictures numbered 101 and above can be manipulated using the plugin command.
 @text tone
 @desc Specify the color type
 @type select
-@default 通常
-@option 通常
-@option ダーク
-@option セピア
-@option 夕暮れ
-@option 夜
+@default
+@option Normal
+@value 通常
+@option Dark
+@value ダーク
+@option Sepia
+@value セピア
+@option Sunset
+@value 夕暮れ
+@option Night
+@value 夜
 
 @arg red
 @desc Specifies the red hue from -255 to 255

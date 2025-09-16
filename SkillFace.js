@@ -78,12 +78,12 @@ skill description.
 @param AddDescriptionMetaName
 @text Additional description tags
 @desc Name of the memo tag to use for additional explanation
-@default 追加説明
+@default AddDescription
 
 @param FaceGraphicMetaName
 @text Face Graphic Tag
 @desc Name of the memo tag to use for face graphics
-@default 顔グラフィック
+@default FaceGraphic
 */
 
 /*:ja

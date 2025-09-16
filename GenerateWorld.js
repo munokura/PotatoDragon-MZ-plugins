@@ -219,17 +219,17 @@ would complicate the setup, so I do not plan to support it.
 @text World Regeneration Command Name
 @desc Command to regenerate the world from the menu
 @type combo
-@default ワールド再生成
+@default World Regeneration
 @parent Test
-@option ワールド再生成
+@option World Regeneration
 
 @param ExportJsonCommand
 @text Map JSON Output
 @desc Commands that can output map JSON from the menu
 @type combo
-@default マップJSON出力
+@default Output Map JSON
 @parent Test
-@option マップJSON出力
+@option Output Map JSON
 
 @param SameMapExportJson
 @text Same Map JSON Output
