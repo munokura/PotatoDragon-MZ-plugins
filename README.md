@@ -1,5 +1,5 @@
 # [PotatoDragon-MZ-plugins] (Unofficial English Translation)
-This repository provides an unofficial English translation of the help for [Original Author Name]'s RPG Maker MZ plugin.
+This repository provides an unofficial English translation of the help for PotatoDragon's RPG Maker MZ plugin.
 - **Original Plugin**: https://github.com/pota-gon/RPGMakerMZ/wiki
 - **Feedback**: Please submit suggestions to improve the translation via this form: https://forms.gle/3t3EWDqnUbNFwX1w9 or use GitHub Issues.
 - **Translator**: munokura
